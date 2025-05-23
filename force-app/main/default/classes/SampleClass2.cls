@@ -1,7 +1,7 @@
 public class SampleClass2 {
 
     public SampleClass2() {
-        System.debug('In constructor');
+        System.debug('In constructors');
     }
     
     public Integer sum() {
